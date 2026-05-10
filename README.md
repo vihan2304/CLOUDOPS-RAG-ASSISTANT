@@ -90,8 +90,7 @@ CLOUDOPS-RAG-ASSISTANT/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/CLOUDOPS-RAG-ASSISTANT.git
-cd CLOUDOPS-RAG-ASSISTANT
+https://github.com/vihan2304/CLOUDOPS-RAG-ASSISTANT.git
 ```
 
 ## 2️⃣ Create Virtual Environment
